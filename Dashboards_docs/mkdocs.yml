@@ -7,14 +7,14 @@ theme:
 
     # Palette toggle for light mode
     - scheme: default
-      primary: purple
+      primary: indigo
       toggle:
         icon: material/weather-night 
         name: Modo noturno
 
     # Palette toggle for dark mode
     - scheme: slate
-      primary: deep purple
+      primary: black
       toggle:
         icon: material/weather-sunny
         name: Modo claro
